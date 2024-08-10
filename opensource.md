@@ -208,3 +208,8 @@ https://www.al-monitor.com/
 https://aleph.occrp.org/
 https://www.n2yo.com/
 https://www.open-cosmos.com/
+https://liveuamap.com/                        
+https://docs.google.com/spreadsheets/d/1KGLi0unSMHpGH1wZBrJ21-ryWqgruksSfNZIrDn5giY/edit?gid=132235969#gid=132235969                      
+https://github.com/ranlo/osintsummit-2023-resources?tab=readme-ov-file      
+https://spin.ai/ransomware-simulator/
+https://darkfeed.io/    
